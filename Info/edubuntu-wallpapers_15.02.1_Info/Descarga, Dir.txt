@@ -1,0 +1,13 @@
+
+Ubicación original de los archivos:
+edubuntu-wallpapers_15.02.1_all/usr/share/backgrounds/
+
+Dirección de descarga:
+http://archive.ubuntu.com/ubuntu/pool/universe/e/edubuntu-artwork/
+http://archive.ubuntu.com/ubuntu/pool/universe/e/edubuntu-artwork/edubuntu-wallpapers_15.02.1_all.deb 
+
+Att: Wachín
+2016-03-17
+
+At 2022:
+http://archive.ubuntu.com/ubuntu/pool/universe/e/edubuntu-artwork/edubuntu-wallpapers_15.12.1_all.deb
